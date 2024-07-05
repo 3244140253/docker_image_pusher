@@ -4,4 +4,4 @@
 #支持指定架构
 ###--platform=linux/arm64 xiaoyaliu/alist
 alpine:3.19.1
-k8s.gcr.io/kube-proxy:v1.23.0
+registry.k8s.io/ingress-nginx/controller:v1.6.3
